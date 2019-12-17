@@ -19,7 +19,7 @@ This program solves System of linear equations. The programs reads first an inte
 ## Test Cases
 
 
-**Example 1 (num_vars operation)**
+####**Example 1 (num_vars operation)**
 
 
 7
@@ -46,7 +46,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 2 (equation i operation)**
+####**Example 2 (equation i operation)**
 
 
 
@@ -92,7 +92,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 3 (column operation)**
+####**Example 3 (column operation)**
 
 
 
@@ -202,7 +202,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 4 (Add operation)**
+####**Example 4 (Add operation)**
 
 
 
@@ -239,7 +239,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 5 (subtract operation)**
+####**Example 5 (subtract operation)**
 
 
 
@@ -277,7 +277,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 6 (substitute operation)**
+####**Example 6 (substitute operation)**
 
 
 
@@ -314,7 +314,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 7 (D operation)**
+####**Example 7 (D operation)**
 
 
 
@@ -352,7 +352,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 8 (D x2 operation)**
+####**Example 8 (D x2 operation)**
 
 
 
@@ -420,7 +420,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-**Example 8 (D_value operation)**
+####**Example 8 (D_value operation)**
 
 
 
@@ -451,7 +451,7 @@ cad-kit+2bounty=5
 
 
 
-**Example 9 (solve operation)**
+####**Example 9 (solve operation)**
 
 
 2
