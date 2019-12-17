@@ -44,6 +44,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
+
+
 **Example 2 (equation i operation)**
 
 
@@ -85,6 +87,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 *equation 6*
 
 17apple+10banana+82blue+6choc-5.8x+5y=29
+
+
 
 
 
@@ -196,6 +200,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
+
+
 **Example 4 (Add operation)**
 
 
@@ -227,6 +233,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 *add 5 6*
 
 57.55apple-15banana-108blue-12choc-3x+5y=27.4
+
+
 
 
 
@@ -267,6 +275,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
+
+
 **Example 6 (substitute operation)**
 
 
@@ -298,6 +308,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 *substitute x 5 6*
 
 10.9362apple-2.625banana-20.925blue-3.075choc+0.7y=4.955
+
+
 
 
 
@@ -335,6 +347,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 7.65     -5       -9       9        -8       4
 
 49.9     -10      -99      -21      5        1
+
+
 
 
 
@@ -404,6 +418,8 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
+
+
 **Example 8 (D_value operation)**
 
 
@@ -431,6 +447,8 @@ cad-kit+2bounty=5
 *D_value*
 
 6
+
+
 
 
 **Example 9 (solve operation)**
