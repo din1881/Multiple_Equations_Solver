@@ -19,10 +19,11 @@ This program solves System of linear equations. The programs reads first an inte
 ## Test Cases
 
 
-Example 1 (num_vars operation)
+**Example 1 (num_vars operation)**
 
 
 7
+
 7.56x+89-4apple-15banana+3.4choc-y=22-9blue
 
 82blue-25+6choc+17apple-5.8x+10banana+5y=4
@@ -37,13 +38,13 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 15green+5yellow=12
 
-num_vars
+*num_vars*
 
 8
 
 
 
-Example 2 (equation i operation)
+**Example 2 (equation i operation)**
 
 
 
@@ -61,33 +62,33 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 82blue-25+6choc+17apple-5.8x+10banana+5y=4
 
-equation 1
+*equation 1*
 
 49.9apple-10banana-99blue-21choc+5x+1y=20.4
 
-equation 2
+*equation 2*
 
 7.65apple-5banana-9blue+9choc-8x+4y=7
 
-equation 3
+*equation 3*
 
 23apple-1banana+1blue+4.789x+2y=77
 
-equation 4
+*equation 4*
 
 4apple+14banana-9blue+1choc+4x-5y=26
 
-equation 5
+*equation 5*
 
 -2apple+3banana-20blue-88.4choc+2x+9y=1
 
-equation 6
+*equation 6*
 
 17apple+10banana+82blue+6choc-5.8x+5y=29
 
 
 
-Example 3 (column operation)
+**Example 3 (column operation)**
 
 
 
@@ -107,7 +108,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-column choc
+*column choc*
 
 3.4
 
@@ -121,7 +122,7 @@ column choc
 
 -21
 
-column apple
+*column apple*
 
 -4
 
@@ -135,7 +136,7 @@ column apple
 
 49.9
 
-column banana
+*column banana*
 
 -15
 
@@ -149,7 +150,7 @@ column banana
 
 -10
 
-column x
+*column x*
 
 7.56
 
@@ -163,7 +164,7 @@ column x
 
 5
 
-column y
+*column y*
 
 -1
 
@@ -177,7 +178,7 @@ column y
 
 1
 
-column blue
+*column blue*
 
 9
 
@@ -195,7 +196,7 @@ column blue
 
 
 
-Example 4 (Add operation)
+**Example 4 (Add operation)**
 
 
 
@@ -215,22 +216,22 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-add 1 3
+*add 1 3*
 
 0apple-1banana+0blue+4.4choc+11.56x-6y=-41
 
-add 2 4
+*add 2 4*
 
 40apple+9banana+83blue+6choc-1.011x+7y=106
 
-add 5 6
+*add 5 6*
 
 57.55apple-15banana-108blue-12choc-3x+5y=27.4
 
 
 
 
-Example 5 (subtract operation)
+**Example 5 (subtract operation)**
 
 
 
@@ -250,15 +251,15 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-subtract 1 3
+*subtract 1 3*
 
 -8apple-29banana+18blue+2.4choc+3.56x+4y=-93
 
-subtract 2 5
+*subtract 2 5*
 
 9.35apple+15banana+91blue-3choc+2.2x+1y=22
 
-subtract 3 6
+*subtract 3 6*
 
 -45.9apple+24banana+90blue+22choc-1x-6y=5.6
 
@@ -266,7 +267,7 @@ subtract 3 6
 
 
 
-Example 6 (substitute operation)
+**Example 6 (substitute operation)**
 
 
 
@@ -286,22 +287,22 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 44.9apple-10banana-21choc-8.4+5x+y-99blue+5apple=12
 
-substitute banana 1 3
+*substitute banana 1 3*
 
 0.019047apple-0.042857blue+0.298096choc+0.789714x-0.42381y=-2.60953
 
-substitute choc 2 3
+*substitute choc 2 3*
 
 1.16667apple+12.3333banana-22.6667blue+4.96667x-5.83333y=21.1667
 
-substitute x 5 6
+*substitute x 5 6*
 
 10.9362apple-2.625banana-20.925blue-3.075choc+0.7y=4.955
 
 
 
 
-Example 7 (D operation)
+**Example 7 (D operation)**
 
 
 
@@ -321,7 +322,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-D
+*D*
 
 -4       -15      9         3.4       7.56      -1 
 
@@ -337,7 +338,7 @@ D
 
 
 
-Example 8 (D x2 operation)
+**Example 8 (D x2 operation)**
 
 
 
@@ -358,7 +359,7 @@ choc+4apple-9blue+14banana-5y+4x=26
 
 
 
-D choc
+*D choc*
 
 -4      -15     9       -67     7.56    -1
 
@@ -372,7 +373,7 @@ D choc
 
 49.9    -10     -99     20.4    5       1
 
-D apple
+*D apple*
 
 -67      -15      9        3.4      7.56     -1
  
@@ -386,7 +387,7 @@ D apple
 
 20.4     -10      -99      -21      5        1
 
-D blue
+*D blue*
 
 -4       -15      -67      3.4      7.56     -1 
 
@@ -403,7 +404,7 @@ D blue
 
 
 
-Example 8 (D_value operation)
+**Example 8 (D_value operation)**
 
 
 
@@ -413,9 +414,10 @@ Example 8 (D_value operation)
 
 3green+yellow=31
 
-D_value
+*D_value*
 
 17
+
 
 
 3
@@ -426,12 +428,12 @@ cad+2kit-bounty=2
 
 cad-kit+2bounty=5
 
-D_value
+*D_value*
 
 6
 
 
-Example 9 (solve operation)
+**Example 9 (solve operation)**
 
 
 2
@@ -440,7 +442,7 @@ Example 9 (solve operation)
 
 3green+yellow=31
 
-solve
+*solve*
 
 green=10
 
@@ -448,6 +450,7 @@ yellow=1
 
 
 
+
 3
 
 cad+2kit-bounty=2
@@ -456,7 +459,7 @@ cad+2kit-bounty=2
 
 cad-kit+2bounty=5
 
-solve
+*solve*
 
 bounty=3
 
