@@ -6,15 +6,25 @@ This program solves System of linear equations. The programs reads first an inte
 
 ## Operations Supported by the Program
 1.num_vars -> Print the number of variables.
+
 2.equation i -> Print equation number i (i is integer).
+
 3.column x2 -> Print the column of coefficients of variable (x2).
+
 4.add 1 3 -> Add equation 1 and equation 3 and print the result equation.
+
 5.subtract 1 3 -> Subtract equation 1 minus equation 3 and print the result equation.
+
 6.substitute x2 1 3 -> Substitutes the variable x2 in equation 1 by its equation in equation 3 and print the result equation.
+
 7.D -> Cramer’s Coefficient matrix.
+
 8.D x1 -> Cramer’s Coefficient matrix of variable x1.
+
 9.D_value -> Cramer’s coefficient matrix determinant value.
+
 10.solve -> Print the solution of the equations (Only 3x3 equations is supported here).
+
 
 ## Test Cases
 
