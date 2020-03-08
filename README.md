@@ -1,5 +1,8 @@
 # Multiple_Equations_Solver
-First Year Electrical Project.
+First Year Electrical Engineering Project.
+
+# DISCLAIMER
+This project is poorly written in terms of object oriented concepts, as it was developed in mid 2017, when I was new to programming.
 
 ## Descrption
 This program solves System of linear equations. The programs reads first an integer n which is the number of equations. Then the equations themselves are inserted, then the operations.
